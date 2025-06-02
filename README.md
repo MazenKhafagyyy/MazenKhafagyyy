@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Mazen Khafagy<br>I'm from Egypt<br>Currently a 3rd-year Computer Engineering student at the University of Alberta<br>Interested in Embedded systems and Game development 
+My name is Mazen Khafagy<br>I'm from Egypt<br>Currently a 4th-year Computer Engineering student at the University of Alberta<br>Interested in Embedded systems and Game development 
 
 
 ## 🌐 Socials:
