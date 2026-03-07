@@ -2,8 +2,6 @@
 
 Computer Engineering student at the **University of Alberta** focused on **embedded systems, low-level programming, and hardware–software integration**.
 
-I enjoy building systems where software directly interacts with hardware — microcontrollers, real-time systems, and digital design.
-
 ---
 
 ## 🔧 Interests
