@@ -6,7 +6,7 @@ I enjoy building systems where software directly interacts with hardware — mic
 
 ---
 
-## Interests
+## 🔧 Interests
 - Embedded Systems  
 - Real-Time Operating Systems (FreeRTOS)  
 - ARM / RISC-V architectures 
@@ -15,7 +15,7 @@ I enjoy building systems where software directly interacts with hardware — mic
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 C • C++ • Python • ARM/x86 Assembly • VHDL • Verilog
