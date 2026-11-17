@@ -23,4 +23,4 @@ Built a Python Dash geospatial analytics app visualizing 100,000+ oil wells, wit
  
 ### Contact
  
-[LinkedIn](https://www.linkedin.com/in/mazen-khafagy-b83865249/) · mazen.khafagi@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mazen-khafagy/) · mazen.khafagi@gmail.com
